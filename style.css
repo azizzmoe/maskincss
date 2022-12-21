@@ -22,9 +22,9 @@ h1 {
   mask-image: url('mask.png');
   padding: 260px 0 0 120px;*/
 
-  -webkit-mask-image: url('texture.png');
-  mask-image: url('texture.png');
-  padding: 100px 0 0 120px;
+  -webkit-mask-image: url('mask.png');
+  mask-image: url('mask.png');
+  padding: 200px 0 0 120px;
 }
 
 
